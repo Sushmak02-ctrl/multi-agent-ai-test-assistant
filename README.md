@@ -60,6 +60,11 @@ MultiAgentAITestAssistant/
 │   └── workflows/
 │       └── tests.yml
 ├── Screenshots/
+│   ├── Search-filter-testcases.PNG
+│   ├── analysis-results.PNG
+│   ├── qa-dashboard1.PNG
+│   ├── qa-dashboard2.PNG
+│   └── qa-report.PNG
 ├── tests/
 │   └── test_app.py
 ├── app.py
@@ -70,16 +75,25 @@ MultiAgentAITestAssistant/
 ## 📸 Application Screenshots
 
 ### 1. QA Dashboard
-![QA Dashboard](screenshots/01-dashboard-top.png)
 
-### 2. Generated Test Cases
-![Generated Test Cases](screenshots/02-generated-test-cases.png)
+![QA Dashboard](Screenshots/qa-dashboard1.PNG)
+
+### 2. Generated Test Cases and Search Filters
+
+![Generated Test Cases and Search Filters](Screenshots/Search-filter-testcases.PNG)
 
 ### 3. Agent Analysis Results
-![Agent Analysis Results](screenshots/03-agent-analysis.png)
+
+![Agent Analysis Results](Screenshots/analysis-results.PNG)
 
 ### 4. Excel Report Export
-![Excel Report Export](screenshots/04-excel-report.png)
+
+![Excel Report Export](Screenshots/qa-report.PNG)
+
+### 5. Additional Dashboard View
+
+![Additional Dashboard View](Screenshots/qa-dashboard2.PNG)
+
 
 ## Getting Started
 
