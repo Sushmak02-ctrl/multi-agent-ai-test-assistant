@@ -37,6 +37,19 @@ MultiAgentAITestAssistant/
 ├── README.md
 └── .gitignore
 ```
+## 📸 Application Screenshots
+
+### 1. QA Dashboard
+![QA Dashboard](screenshots/01-dashboard-top.png)
+
+### 2. Generated Test Cases
+![Generated Test Cases](screenshots/02-generated-test-cases.png)
+
+### 3. Agent Analysis Results
+![Agent Analysis Results](screenshots/03-agent-analysis.png)
+
+### 4. Excel Report Export
+![Excel Report Export](screenshots/04-excel-report.png)
 
 ## Getting Started
 
