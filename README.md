@@ -78,21 +78,21 @@ MultiAgentAITestAssistant/
 
 ![QA Dashboard](Screenshots/qa-dashboard1.PNG)
 
-### 2. Generated Test Cases and Search Filters
+### 2. Additional Dashboard View
+
+![Additional Dashboard View](Screenshots/qa-dashboard2.PNG)
+
+### 3. Generated Test Cases and Search Filters
 
 ![Generated Test Cases and Search Filters](Screenshots/Search-filter-testcases.PNG)
 
-### 3. Agent Analysis Results
+### 4. Agent Analysis Results
 
 ![Agent Analysis Results](Screenshots/analysis-results.PNG)
 
-### 4. Excel Report Export
+### 5. Excel Report Export
 
 ![Excel Report Export](Screenshots/qa-report.PNG)
-
-### 5. Additional Dashboard View
-
-![Additional Dashboard View](Screenshots/qa-dashboard2.PNG)
 
 
 ## Getting Started
