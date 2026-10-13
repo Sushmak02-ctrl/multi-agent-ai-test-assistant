@@ -26,9 +26,6 @@ The Multi-Agent AI Test Assistant uses a modular, rule-based analysis approach t
 
 ## Technology Stack
 
-
-## Technology Stack
-
 - **Language:** Python
 - **Application Framework:** Streamlit
 - **Data Processing:** pandas
