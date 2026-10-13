@@ -1,3 +1,6 @@
+
+[![Automated Tests](https://github.com/Sushmak02-ctrl/multi-agent-ai-test-assistant/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/Sushmak02-ctrl/multi-agent-ai-test-assistant/actions/workflows/tests.yml)
+
 # 🧪 Multi-Agent AI Test Assistant
 
 A Streamlit-based QA testing assistant that helps transform requirements into structured test cases, identify potential quality risks, assess coverage, and export QA reports to Excel.
@@ -23,20 +26,50 @@ The Multi-Agent AI Test Assistant uses a modular, rule-based analysis approach t
 
 ## Technology Stack
 
-- Python
-- Streamlit
-- pandas
-- openpyxl
+
+## Technology Stack
+
+- **Language:** Python
+- **Application Framework:** Streamlit
+- **Data Processing:** pandas
+- **Excel Reporting:** openpyxl
+- **Automated Testing:** pytest, Streamlit AppTest
+- **Continuous Integration:** GitHub Actions
+- **Version Control:** Git and GitHub
+
+## Automated Testing
+
+The project includes automated tests to verify key application behavior.
+
+- Application startup validation
+- Empty-requirements input validation
+- Automated test execution with pytest
+- GitHub Actions workflow for continuous integration
+
+### Run Tests Locally
+
+Activate your virtual environment, then run:
+
+```bash
+python -m pytest -v
+```
+
+GitHub Actions runs the test suite automatically on pushes and pull requests targeting the `main` branch.
 
 ## Project Structure
 
-```text
 MultiAgentAITestAssistant/
+├── .github/
+│   └── workflows/
+│       └── tests.yml
+├── Screenshots/
+├── tests/
+│   └── test_app.py
 ├── app.py
 ├── requirements.txt
 ├── README.md
 └── .gitignore
-```
+
 ## 📸 Application Screenshots
 
 ### 1. QA Dashboard
