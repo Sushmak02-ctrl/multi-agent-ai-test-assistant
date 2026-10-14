@@ -3,6 +3,14 @@
 
 # 🧪 Multi-Agent AI Test Assistant
 
+## 🚀 Live Demo
+
+**[Try the Multi-Agent AI Test Assistant](https://multi-agent-ai-test-assistant-dvhqhmy9vppwekdkv6chnj.streamlit.app/)**
+
+Explore the application to generate test cases, analyse QA requirements, and review its testing workflow directly in your browser.
+
+**Source Code:** [GitHub Repository](https://github.com/Sushmak02-ctrl/multi-agent-ai-test-assistant)
+
 A Streamlit-based QA testing assistant that helps transform requirements into structured test cases, identify potential quality risks, assess coverage, and export QA reports to Excel.
 
 ## Overview
